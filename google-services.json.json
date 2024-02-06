@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420873236014",
+    "project_id": "rajotpauth",
+    "storage_bucket": "rajotpauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420873236014:android:c996f06974d0502d0979bf",
+        "android_client_info": {
+          "package_name": "com.omkar55.RajEnterprices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDni1Jf0nOKuTuEubguwUb8Afjl7NdS1HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
